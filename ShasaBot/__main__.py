@@ -74,7 +74,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-`𝕳𝖊𝖑𝖑𝖔` {} [🥰](https://telegra.ph/file/c4b69de63b6525efad6dd.jpg) 𝐈 𝐀𝐌 𝐅𝐑𝐈𝐄𝐍𝐃𝐒 𝐙𝐎𝐍𝐄 𝐁𝐎𝐓.`
+`𝕳𝖊𝖑𝖑𝖔` {} [🥰](https://telegra.ph/file/9bf5905788ab421b5a21b.jpg) 𝐈 𝐀𝐌 𝐅𝐑𝐈𝐄𝐍𝐃𝐒 𝐙𝐎𝐍𝐄 𝐁𝐎𝐓.`
 `𝐈'𝐦 𝐡𝐞𝐫𝐞 𝐭𝐨 𝐦𝐚𝐧𝐚𝐠𝐞 𝐲𝐨𝐮𝐫 𝐠𝐫𝐨𝐮𝐩 𝐚𝐧𝐝 𝐡𝐞𝐥𝐩 𝐢𝐧 𝐲𝐨𝐮 𝐢𝐧 𝐜𝐨𝐧𝐭𝐫𝐨𝐥 𝐲𝐨𝐮𝐫 𝐠𝐫𝐨𝐮𝐩! 𝐇𝐢𝐭 ✨𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 σя` *📚Commands* 𝖔𝖗 /help  
 """
 
@@ -96,11 +96,11 @@ buttons = [
 
 
 HELP_STRINGS = """
-`𝕳𝖎.. 𝕴'𝖒` [𝕾𝖍𝖆𝖘𝖆❤️](https://telegra.ph/file/c4b69de63b6525efad6dd.jpg)
+`𝕳𝖎.. 𝕴'𝖒` [𝕾𝖍𝖆𝖘𝖆❤️](https://telegra.ph/file/9bf5905788ab421b5a21b.jpg)
 `𝕴'𝖒 𝖆 𝕳𝖊𝖗𝖔𝖎𝖓𝖊 𝕱𝖔𝖗 𝕱𝖚𝖓 𝖆𝖓𝖉 𝖍𝖊𝖑𝖕 𝖆𝖉𝖒𝖎𝖓𝖘 𝖙𝖔 𝖒𝖆𝖓𝖆𝖌𝖊 𝖙𝖍𝖊𝖎𝖗 𝖌𝖗𝖔𝖚𝖕𝖘! 𝕳𝖆𝖛𝖊 𝖆 𝖑𝖔𝖔𝖐 𝖆𝖙 𝖙𝖍𝖊 𝖋𝖔𝖑𝖑𝖔𝖜𝖎𝖓𝖌 𝖋𝖔𝖗 𝖆𝖓 𝖎𝖉𝖊𝖆 𝖔𝖋 𝖘𝖔𝖒𝖊 𝖔𝖋 𝖙𝖍𝖊 𝖙𝖍𝖎𝖓𝖌𝖘 𝕴 𝖈𝖆𝖓 𝖍𝖊𝖑𝖕 𝖞𝖔𝖚 𝖜𝖎𝖙𝖍.`"""
 
 
-shasa_IMG = "https://telegra.ph/file/c4b69de63b6525efad6dd.jpg"
+shasa_IMG = "https://telegra.ph/file/9bf5905788ab421b5a21b.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
  You can support the project via [Paypal](#) or by contacting @SHIVAM91412 \
